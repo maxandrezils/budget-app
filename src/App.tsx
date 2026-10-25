@@ -1,17 +1,13 @@
+"use client"
 import './App.css';
 
 function App() {
-  return (
-    <>
-      <section id="center">
-        <div class="hero">
-          <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
-        </div>
-        </section>
 
-      </>
+  return (
+
+    <>
+    Hello
+     </>
   )
 }
 
